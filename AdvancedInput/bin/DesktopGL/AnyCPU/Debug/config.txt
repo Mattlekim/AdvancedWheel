@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config InputId="00000003-044f-0000-6eb6-000000000000" SecondClutch="8" SecondClutchBite="0.44" SecondClutchReleaseTime="0.7575758" />
