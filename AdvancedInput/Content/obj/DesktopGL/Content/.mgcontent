@@ -4,8 +4,8 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/m_bri/onedrive/documents/visual studio 2015/Projects/AdvancedInput/AdvancedInput/Content/Font.spritefont</File>
-    <File>C:/Users/m_bri/onedrive/documents/visual studio 2015/Projects/AdvancedInput/AdvancedInput/Content/Imgs/config.png</File>
+    <File>C:/Programming/AdvancedWheel/AdvancedInput/Content/Font.spritefont</File>
+    <File>C:/Programming/AdvancedWheel/AdvancedInput/Content/Imgs/config.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

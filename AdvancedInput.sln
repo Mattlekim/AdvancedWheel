@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vjoy_Wrapper", "Vjoy_Wrappe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "RiddlersoftLib\Core\Core.csproj", "{10867C37-8A7F-4FB7-A6BF-94C6987CB9E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedInputDx", "AdvancedInputDx\AdvancedInputDx.csproj", "{7D754EC2-24A6-44CE-803D-135877CEFE5C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,21 +69,6 @@ Global
 		{10867C37-8A7F-4FB7-A6BF-94C6987CB9E8}.SwitchDebug|Any CPU.Build.0 = SwitchDebug|Any CPU
 		{10867C37-8A7F-4FB7-A6BF-94C6987CB9E8}.SwitchDebug|x86.ActiveCfg = SwitchDebug|Any CPU
 		{10867C37-8A7F-4FB7-A6BF-94C6987CB9E8}.SwitchDebug|x86.Build.0 = SwitchDebug|Any CPU
-		{7D754EC2-24A6-44CE-803D-135877CEFE5C}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{7D754EC2-24A6-44CE-803D-135877CEFE5C}.Debug|Any CPU.Build.0 = Debug|x86
-		{7D754EC2-24A6-44CE-803D-135877CEFE5C}.Debug|x86.ActiveCfg = Debug|x86
-		{7D754EC2-24A6-44CE-803D-135877CEFE5C}.Debug|x86.Build.0 = Debug|x86
-		{7D754EC2-24A6-44CE-803D-135877CEFE5C}.DebugEditor|Any CPU.ActiveCfg = Release|x86
-		{7D754EC2-24A6-44CE-803D-135877CEFE5C}.DebugEditor|Any CPU.Build.0 = Release|x86
-		{7D754EC2-24A6-44CE-803D-135877CEFE5C}.DebugEditor|x86.ActiveCfg = Debug|x86
-		{7D754EC2-24A6-44CE-803D-135877CEFE5C}.DebugEditor|x86.Build.0 = Debug|x86
-		{7D754EC2-24A6-44CE-803D-135877CEFE5C}.Release|Any CPU.ActiveCfg = Release|x86
-		{7D754EC2-24A6-44CE-803D-135877CEFE5C}.Release|x86.ActiveCfg = Release|x86
-		{7D754EC2-24A6-44CE-803D-135877CEFE5C}.Release|x86.Build.0 = Release|x86
-		{7D754EC2-24A6-44CE-803D-135877CEFE5C}.SwitchDebug|Any CPU.ActiveCfg = Release|x86
-		{7D754EC2-24A6-44CE-803D-135877CEFE5C}.SwitchDebug|Any CPU.Build.0 = Release|x86
-		{7D754EC2-24A6-44CE-803D-135877CEFE5C}.SwitchDebug|x86.ActiveCfg = Debug|x86
-		{7D754EC2-24A6-44CE-803D-135877CEFE5C}.SwitchDebug|x86.Build.0 = Debug|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
